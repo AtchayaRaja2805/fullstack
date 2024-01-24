@@ -1,0 +1,22 @@
+#home-title{
+  font-size: 5em;
+  color:#F86F03
+}
+.home-content{
+  margin-top: 2%; 
+  font-size: larger;
+  font-weight: bold;
+  justify-content: center; 
+ 
+  font-family: 'Helvetica', Arial, sans-serif;
+  line-height: 2.0;
+  /* margin-bottom: 80em; s */
+  font-weight: 600; 
+}
+body{
+  height: 100%;
+  width: 100%;
+  background-image:url(/Users/atchayaraja/frontend/src/assets/images/home-bg.jpeg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
